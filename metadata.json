@@ -1,0 +1,6 @@
+{
+  "name": "Guru Purnima Tribute to Shami Teacher",
+  "description": "A cinematic, interactive 3D Guru Purnima tribute website for Class 10 Science teacher Shami Teacher, featuring 3D visuals, soundscapes, interactive science universe, student messages, and glowing tree ceremony.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
